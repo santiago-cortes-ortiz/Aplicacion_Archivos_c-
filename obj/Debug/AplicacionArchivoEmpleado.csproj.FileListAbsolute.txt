@@ -1,0 +1,28 @@
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\bin\Debug\AplicacionArchivoEmpleado.exe.config
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\bin\Debug\AplicacionArchivoEmpleado.exe
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\bin\Debug\AplicacionArchivoEmpleado.pdb
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.csprojAssemblyReference.cache
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.Properties.Resources.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.csproj.GenerateResource.cache
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.exe
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.pdb
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIAgregarEmpleado.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIPrincipal.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIMostrarEnGrilla.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIBuscarEmpleado.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIModificarEmpleado.resources
+C:\Users\jeiss\Desktop\Universidad Ibague\Semestre 5\Matematicas Discretas\Archivos\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIEliminarEmpleado.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\bin\Debug\AplicacionArchivoEmpleado.exe.config
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\bin\Debug\AplicacionArchivoEmpleado.exe
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\bin\Debug\AplicacionArchivoEmpleado.pdb
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.csprojAssemblyReference.cache
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIBuscarEmpleado.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIEliminarEmpleado.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIModificarEmpleado.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIMostrarEnGrilla.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIPrincipal.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.GUIInterfaz.GUIAgregarEmpleado.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.Properties.Resources.resources
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.csproj.GenerateResource.cache
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.exe
+C:\Users\Polar\Documents\Matematicas discretas\AplicacionEmpleadoArchivo\AplicacionArchivoEmpleado\obj\Debug\AplicacionArchivoEmpleado.pdb

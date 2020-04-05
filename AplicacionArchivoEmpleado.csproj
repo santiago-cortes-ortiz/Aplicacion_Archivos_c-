@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{51F2849D-DF05-452C-8AFD-D13D29956BBB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AplicacionArchivoEmpleado</RootNamespace>
+    <AssemblyName>AplicacionArchivoEmpleado</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUIInterfaz\GUIBuscarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIBuscarEmpleado.Designer.cs">
+      <DependentUpon>GUIBuscarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIEliminarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIEliminarEmpleado.Designer.cs">
+      <DependentUpon>GUIEliminarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIModificarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIModificarEmpleado.Designer.cs">
+      <DependentUpon>GUIModificarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIMostrarEnGrilla.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIMostrarEnGrilla.Designer.cs">
+      <DependentUpon>GUIMostrarEnGrilla.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIPrincipal.Designer.cs">
+      <DependentUpon>GUIPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIAgregarEmpleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIInterfaz\GUIAgregarEmpleado.Designer.cs">
+      <DependentUpon>GUIAgregarEmpleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mundo\Empleado.cs" />
+    <Compile Include="Mundo\ServicioArchivoEmpleado.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUIInterfaz\GUIBuscarEmpleado.resx">
+      <DependentUpon>GUIBuscarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIInterfaz\GUIEliminarEmpleado.resx">
+      <DependentUpon>GUIEliminarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIInterfaz\GUIModificarEmpleado.resx">
+      <DependentUpon>GUIModificarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIInterfaz\GUIMostrarEnGrilla.resx">
+      <DependentUpon>GUIMostrarEnGrilla.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIPrincipal.resx">
+      <DependentUpon>GUIPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIInterfaz\GUIAgregarEmpleado.resx">
+      <DependentUpon>GUIAgregarEmpleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-universidad-de-ibague-1150x445.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
